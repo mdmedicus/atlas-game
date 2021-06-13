@@ -1,2 +1,2 @@
 # atlas
-my online game Server core I wrote call Atlas.
+my online game Server core I wrotethe game called Atlas.
